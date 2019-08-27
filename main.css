@@ -87,48 +87,12 @@ display: block;
   text-align: justify;
   text-justify: inter-word;
 } */
-
-/* body {
-    background-color: lightblue;
-  }
-  
+/*   
   .productContainer {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
     text-align: center;
-  }
-  
-  .product {
-    width: 250px;
-    height: 250px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: white;
-    border: 1em;
-    margin: 5px;
-    text-align: center;
-  }
-  
-  .images {
-    width: 200px;
-  }
-  
-  h1 {
-    text-align: center;
-  }  */
-
-/* .turtle-container img {
-    width: 200px;
-    height: 150px;
-  }
-  
-  .turtle-container {
-    display: flex;
-    flex-direction: row; /*No need for this because the default display for CSS is "row"*/
-    /* flex-wrap: wrap;
-    justify-content: space-around;
-  } */ 
+  } */
+ 
