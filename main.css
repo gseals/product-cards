@@ -9,6 +9,26 @@ h1 {
     color: white;
 }
 
+.image {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#onBottom {
+		position: relative;
+		top: 0px;
+		left: 0px;
+		z-index: 1;
+}
+
+.onTop {
+		position:absolute;
+		top: 0px;
+		left: 0px;
+		z-index: 2;
+}
+
 .description {
   text-align: justify;
   margin: 5px;
@@ -33,6 +53,7 @@ h1 {
 }
 
 .product-card .picture {
+    /* width: 50%; */
     width: 300px;
     height: 300px;
     margin: 1em;
