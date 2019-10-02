@@ -3,7 +3,7 @@
 
 ## Description
 
-A webpage displaying products (CDs) and the details of each item. This project was an exercise in applying HTML, CSS, and Flexbox.
+A webpage displaying products (CDs) and the details of each item. This project was an exercise in utilizing HTML, CSS, Flexbox, and an image's z-index.
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@ A webpage displaying products (CDs) and the details of each item. This project w
 
 ## Screenshot(s)
 
-![Main View]()
+![Main View](https://raw.githubusercontent.com/gseals/product-cards/master/screenshots/mainview.png)
 
 ## Instructions for how to run the project
 
